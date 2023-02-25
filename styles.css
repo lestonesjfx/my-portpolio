@@ -1,0 +1,162 @@
+header {
+  width: 0 auto;
+  height: 0 auto;
+  background-color: transparent;
+  text-align: right;
+	font-size: 45px;
+  padding: 10px 10px 10px;
+  
+}
+
+nav > a {
+  text-decoration: none;
+}
+
+#info {
+  color: rgba(220, 20, 60, 0.521);
+  font-size: 45px;
+  background-color: rgba(148, 0, 211, 0.212);
+
+}
+
+.profile {
+  display: flex;
+  padding: 10px;
+  min-height: 500px;
+  width: 1200px;
+  align-content: center;
+  align-items: center;
+  gap: 50px;
+  border-radius: 10px;
+  flex-wrap: wrap;
+  
+}
+
+a:hover {
+  color: aqua;
+  background-color: none;
+  text-decoration: none;
+}
+
+img {
+  opacity: 0.8;
+  border-radius: 5%;
+  border-style: hidden;
+}
+
+.profile-inner {
+  height: 80%;
+  margin-left: 10px;
+  align-content: end;
+  background-color: rgba(57, 12, 161, 0.253);
+  border-radius: 10px;
+  
+}
+
+h1 {
+  color: coral;
+  text-align: center;
+  align-content: end;
+  font-size: xx-large;
+  opacity: 0.9;
+
+}
+
+h3 {
+  color: chartreuse;
+  text-align: center;
+  font-size: xx-large;
+  opacity: 0.9;
+}
+
+p {
+  color: cadetblue;
+  font-size: larger;
+  text-align: center;
+
+}
+
+.main-profile {
+  display: flex;
+  height: 0 auto;
+  width: 0 auto;
+  border-radius: 8px;
+  padding: 5px;
+
+}
+
+.profile-inner1:hover {
+  border: 2px solid orange;
+  height: 0 auto;
+  width: 0 auto;
+  margin: 10px;
+  background-color: rgba(156, 30, 240, 0.356);
+  opacity: 0.8;
+  align-content: center;
+  border-radius: 8px;
+  padding: 8px;
+
+}
+
+#picture2 {
+  display: flex;
+  height: 0 auto;
+  width: 0 auto;
+  background-color: rgba(14, 193, 196, 0.199);
+  padding: 20px;
+  border-radius: 8px;
+  flex-direction: row-reverse;
+
+}
+
+.note {
+  height: 0 auto;
+  width: 0 auto;
+  margin: 10px;
+  opacity: 0.8;
+  align-content: center;
+  border-radius: 8px;
+  margin-right: 40px;
+
+}
+
+h4 {
+  color: rgb(212, 212, 19);
+
+}
+
+li:hover {
+  color: burlywood;
+
+}
+
+#playtime {
+  display: flex;
+  background-color: rgba(255, 255, 0, 0.171);
+  height: 800px;
+  width: 0 auto;
+  border-radius: 8px;
+  flex-direction: column;
+  align-items: end;
+  margin: 10px;
+
+}
+
+.playground {
+  background-color: rgba(41, 115, 184, 0.13);
+  height: 400px;
+  width: 600px;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  
+}
+
+.headings3 {
+  color: rgba(220, 20, 60, 0.521);
+  font-size: 45px;
+  background-color: rgba(148, 0, 211, 0.212);
+
+}
+
